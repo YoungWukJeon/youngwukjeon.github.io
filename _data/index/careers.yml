@@ -1,29 +1,29 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: Korea National University of Transportation(KNUT) Graduation
+    i18n: knut_gra
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: 한국교통대학교 소프트웨어학과 학사 졸업.
+    i18n: knut_gra_desc
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: Aug 18th. 2017
+    i18n: knut_gra_date
   job:
-    detail: CTO
-    i18n: company_a_job
+    detail: jobless(TㅅT)
+    i18n: knut_gra_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Korea National University of Transportation(KNUT) Entrance
+    i18n: knut_ent
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: 한국교통대학교 소프트웨어학과 입학.
+    i18n: knut_ent_desc
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: Mar 5th. 2012
+    i18n: knut_ent_date
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail: Student
+    i18n: knut_ent_job
   icon: fa-plus-square
